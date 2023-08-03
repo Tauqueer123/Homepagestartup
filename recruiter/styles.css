@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Add custom styles for the hero section */
+.hero {
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+}
+
+/* Add custom styles for the testimonials section */
+.testimonials p {
+    font-style: italic;
+}
+
+/* Add your additional custom styles as needed */
